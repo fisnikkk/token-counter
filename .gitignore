@@ -1,3 +1,5 @@
+# keep secrets local
+backend/.env
 # Logs
 logs
 *.log
